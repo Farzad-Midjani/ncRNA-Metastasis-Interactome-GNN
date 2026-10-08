@@ -9,4 +9,5 @@ model.py       Hierarchical heterogeneous GNN and TuckER decoder
 train.py       Training, evaluation, threshold selection, and cross-validation
 reporting.py   Graph visualization, graph summaries, and prediction export
 main.py        End-to-end pipeline
+dataset/       Input datasets for ncRNA expression, interactions, and metastasis regulation
 ```
